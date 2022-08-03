@@ -6,6 +6,9 @@ Este repositório foi criado para mostrar como podemos criar uma aplicação fro
 
 <img src='https://user-images.githubusercontent.com/61671015/182497597-5b425b77-abe7-4931-bff9-f3ca8d2ee9c1.jpg' />
 
+### Link do site
+https://github-profile-search-one.vercel.app
+
 ### Características
 
 - Pesquisar informações por nome de usuário
